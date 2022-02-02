@@ -1,0 +1,22 @@
+{
+    "name": "mysite",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "deploy": "gh-pages -d dist"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/DishenMakwana/dishenmakwana.github.io.git"
+    },
+    "author": "DISHEN MAKWANA",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/DishenMakwana/dishenmakwana.github.io/issues"
+    },
+    "homepage": "https://dishenmakwana.github.io/",
+    "dependencies": {
+        "gh-pages": "^3.2.3"
+    }
+}
